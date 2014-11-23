@@ -1,4 +1,4 @@
-#Contains two function which return the inverse of a matrix 
+#Contains two functions which return the inverse of a matrix 
 
 
 #Input the matrix and set it in an object
@@ -22,7 +22,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 #Return the inverse of the matrix from cache if available
-#Set the inverse of matric if cache is empty
+#Set the inverse of matrix if cache is empty
 
 cacheSolve <- function(x, ...) {
 
